@@ -1,0 +1,9 @@
+{
+  "src": {
+    "styles": "src/scss/"
+  },
+  "dist": {
+    "styles": "dist/css/"
+  },
+  "proxy": "https://vk.com"
+}
